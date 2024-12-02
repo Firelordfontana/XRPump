@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/XRPump/static/css/main.41a9d3ea.css",
+    "main.js": "/XRPump/static/js/main.c852e8f5.js",
+    "index.html": "/XRPump/index.html",
+    "main.41a9d3ea.css.map": "/XRPump/static/css/main.41a9d3ea.css.map",
+    "main.c852e8f5.js.map": "/XRPump/static/js/main.c852e8f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a9d3ea.css",
+    "static/js/main.c852e8f5.js"
+  ]
+}
